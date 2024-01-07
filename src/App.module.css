@@ -1,0 +1,11 @@
+.container{
+  border: 2px solid black;
+  width: 200px;
+  border-radius: 5px;
+  align-items: center;
+  margin-left: 45%;
+  background-color: cadetblue;
+}
+.container:hover{
+  border-color: rgb(51, 3, 13);
+}

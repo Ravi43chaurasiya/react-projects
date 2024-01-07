@@ -1,0 +1,13 @@
+.display{
+  margin: 10px;
+  width: 175px;
+  font-size: 25px;
+  color: black;
+  background-color: antiquewhite;
+  border-radius: 5px;
+  
+}
+.display:hover{
+  border-color: brown;
+  background-color: aquamarine;
+}
